@@ -1,3 +1,3 @@
-export default function SignInPage() {
-  return <div>Index</div>;
+export default function SignUpPage() {
+  return <div>SignUpPage</div>;
 }
